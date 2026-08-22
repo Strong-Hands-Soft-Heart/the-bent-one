@@ -2,9 +2,20 @@
 
 A bilingual (English / Spanish) web picture book. The story follows a short line with a bend and the forms a line can take depending on placement and company.
 
+Spanish title: **La Doblada**.
+
 Live site: [the-bent-one-book.stronghandssoftheart.com](https://the-bent-one-book.stronghandssoftheart.com). Production origin is set at build time via `VITE_SITE_URL` (default fallback matches that domain).
 
-Related book in the same series: [Mia, the Sun, and the Moon](https://mia-the-sun-and-the-moon-web-book.stronghandssoftheart.com/) ([source](https://github.com/antoniwan/book-sun-and-moon)).
+Source: [antoniwan/the-bent-one](https://github.com/antoniwan/the-bent-one).
+
+## Also in this series
+
+Bilingual web picture books from [Strong Hands Soft Heart](https://stronghandssoftheart.com). Each book is its own repository.
+
+| Book | Read | Source |
+|------|------|--------|
+| Mia, the Sun, and the Moon / *Mia, el Sol y la Luna* | [live](https://mia-the-sun-and-the-moon-web-book.stronghandssoftheart.com) | [book-sun-and-moon](https://github.com/antoniwan/book-sun-and-moon) |
+| The Bent One / *La Doblada* | [live](https://the-bent-one-book.stronghandssoftheart.com) | **this repository** |
 
 ## Stack
 
@@ -31,14 +42,13 @@ npm run check
 
 ## Reader behavior
 
-- Cover: **Before we begin** / **Antes de empezar** opens front matter; **Begin** / **Empezar** starts page 1.
+- Cover: **Before we begin** / **Antes de empezar** opens front matter; **Begin** / **Empezar** starts page 1. **Continue reading** appears on the cover when a mid-book position was saved.
 - Language: **EN / ES** toggle; preference is stored for later visits.
 - Spanish story copy always uses *línea* / *líneas*. A **DEV ES F/M** control (local `npm run dev` only) switches the title **La Doblada** / **El Doblado**. Document and Open Graph titles stay **The Bent One** / **La Doblada**.
 - Keyboard: Arrow keys, Space, Enter, Page Up / Page Down turn pages; Home returns to the cover; End jumps to the last screen.
 - Touch: swipe left / right; tap the left or right edge of the illustration to go back or forward.
 - Reader bar dots jump to a page.
 - Each location has a URL (`/`, `/front`, `/1/one-line`, …, `/back`).
-- **Continue reading** appears on the cover when a mid-book position was saved.
 
 This book does not include read-aloud / Web Speech.
 
