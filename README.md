@@ -76,6 +76,7 @@ Crawlers: `public/robots.txt`, `public/sitemap.xml`. Meta + JSON-LD live in `ind
 | `src/lib/lines/` | SVG stroke primitives and geometry helpers |
 | `src/lib/book/Book.svelte` | Shell, cover, routing, navigation |
 | `src/lib/book/ReaderBar.svelte` | Footer chrome and language control |
+| `LICENSE.md` | MIT (code) and CC BY-NC 4.0 (story and art) |
 | `TODO.md` | Open work and constraints |
 
 ## Editorial notes
@@ -83,3 +84,12 @@ Crawlers: `public/robots.txt`, `public/sitemap.xml`. Meta + JSON-LD live in `ind
 Storyboard notes that say “seek the bent line” are art direction only. Reader-facing copy should stay curious and careful: difference as character, noticing with the child, no hunt commands, and no apology for the bend.
 
 See `TODO.md`, the voice guide comment in `src/lib/book/spreads.ts`, and `docs/MAKING-OF-PROMPTING.md` (how the book was directed with agents).
+
+## License
+
+Two licenses, on purpose:
+
+- **Source code** (the reader app): [MIT](LICENSE.md)
+- **Book content** (story text, illustrations, and other creative work): [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
+Forks and copies of the story are welcome for non-commercial use. Credit [Antonio Rodriguez Martinez](https://antonio.builds.software), name the book, and link back. Commercial use of the story and art stays with the author. Details and the MIT text are in [`LICENSE.md`](LICENSE.md).
