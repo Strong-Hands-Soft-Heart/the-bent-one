@@ -92,4 +92,4 @@ Two licenses, on purpose:
 - **Source code** (the reader app): [MIT](LICENSE.md)
 - **Book content** (story text, illustrations, and other creative work): [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
-Forks and copies of the story are welcome for non-commercial use. Credit [Antonio Rodriguez Martinez](https://antonio.builds.software), name the book, and link back. Commercial use of the story and art stays with the author. Details and the MIT text are in [`LICENSE.md`](LICENSE.md).
+Forks and copies of the story are welcome for non-commercial use. Credit [Antonio Rodriguez Martinez](https://antoniwan.online), name the book, and link back. Commercial use of the story and art stays with the author. Details and the MIT text are in [`LICENSE.md`](LICENSE.md).

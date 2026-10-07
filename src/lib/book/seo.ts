@@ -12,7 +12,7 @@ export const SITE_IMAGE_WIDTH = 1200
 export const SITE_IMAGE_HEIGHT = 630
 
 export const REPO_URL = 'https://github.com/Strong-Hands-Soft-Heart/the-bent-one'
-export const AUTHOR_URL = 'https://antonio.builds.software'
+export const AUTHOR_URL = 'https://antoniwan.online'
 export const AUTHOR_NAME = 'Antonio Rodriguez Martinez'
 export const AUTHOR_NAME_ES = 'Antonio Rodríguez Martínez'
 
