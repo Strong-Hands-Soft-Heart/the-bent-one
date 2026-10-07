@@ -11,11 +11,11 @@ The story text and the artwork are licensed CC BY-NC 4.0: you may share and adap
 ## Book
 
 - [The Bent One](https://the-bent-one-book.stronghandssoftheart.com/): the book in the browser, starting at the cover
-- [README](https://raw.githubusercontent.com/antoniwan/the-bent-one/main/README.md): what the book is, the stack, and how to run it, as markdown
-- [License](https://raw.githubusercontent.com/antoniwan/the-bent-one/main/LICENSE.md): CC BY-NC 4.0 for the story and art, MIT for the code, and how to give credit
+- [README](https://raw.githubusercontent.com/Strong-Hands-Soft-Heart/the-bent-one/main/README.md): what the book is, the stack, and how to run it, as markdown
+- [License](https://raw.githubusercontent.com/Strong-Hands-Soft-Heart/the-bent-one/main/LICENSE.md): CC BY-NC 4.0 for the story and art, MIT for the code, and how to give credit
 
 ## Optional
 
-- [Source code](https://github.com/antoniwan/the-bent-one): the repository on GitHub
+- [Source code](https://github.com/Strong-Hands-Soft-Heart/the-bent-one): the repository on GitHub
 - [Mia, the Sun, and the Moon](https://mia-the-sun-and-the-moon-web-book.stronghandssoftheart.com/llms.txt): another bilingual picture book in this series
 - [Antonio Rodriguez Martinez](https://antoniwan.online/llms.txt): the author's link page

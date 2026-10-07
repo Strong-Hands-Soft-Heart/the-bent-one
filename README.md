@@ -6,7 +6,7 @@ Spanish title: **La Doblada**.
 
 Live site: [the-bent-one-book.stronghandssoftheart.com](https://the-bent-one-book.stronghandssoftheart.com). Production origin is set at build time via `VITE_SITE_URL` (default fallback matches that domain).
 
-Source: [antoniwan/the-bent-one](https://github.com/antoniwan/the-bent-one).
+Source: [Strong-Hands-Soft-Heart/the-bent-one](https://github.com/Strong-Hands-Soft-Heart/the-bent-one).
 
 ## Also in this series
 
@@ -14,7 +14,7 @@ Bilingual web picture books from [Strong Hands Soft Heart](https://stronghandsso
 
 | Book | Read | Source |
 |------|------|--------|
-| Mia, the Sun, and the Moon / *Mia, el Sol y la Luna* | [live](https://mia-the-sun-and-the-moon-web-book.stronghandssoftheart.com) | [book-sun-and-moon](https://github.com/antoniwan/book-sun-and-moon) |
+| Mia, the Sun, and the Moon / *Mia, el Sol y la Luna* | [live](https://mia-the-sun-and-the-moon-web-book.stronghandssoftheart.com) | [book-sun-and-moon](https://github.com/Strong-Hands-Soft-Heart/book-sun-and-moon) |
 | The Bent One / *La Doblada* | [live](https://the-bent-one-book.stronghandssoftheart.com) | **this repository** |
 
 ## Stack

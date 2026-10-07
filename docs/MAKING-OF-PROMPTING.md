@@ -2,7 +2,7 @@
 
 A working report for Antonio Rodriguez Martinez — how this web book was made with Cursor agents, what the prompting patterns were, and what those patterns produced. Written so it can feed a longer essay, talk, or studio note about building bilingual children’s web books with AI.
 
-**Project:** [the-bent-one](https://github.com/antoniwan/the-bent-one)  
+**Project:** [the-bent-one](https://github.com/Strong-Hands-Soft-Heart/the-bent-one)  
 **Version at writing:** `1.0.0`  
 **Stack:** Svelte 5 + TypeScript + Vite 8 (static SPA)  
 **Related:** [*Mia, the Sun, and the Moon*](https://mia-the-sun-and-the-moon-web-book.stronghandssoftheart.com/)  

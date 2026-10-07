@@ -1,6 +1,6 @@
 # The Bent One — TODO
 
-Reference reader: [Mia, the Sun, and the Moon](https://mia-the-sun-and-the-moon-web-book.stronghandssoftheart.com/) · [repository](https://github.com/antoniwan/book-sun-and-moon).
+Reference reader: [Mia, the Sun, and the Moon](https://mia-the-sun-and-the-moon-web-book.stronghandssoftheart.com/) · [repository](https://github.com/Strong-Hands-Soft-Heart/book-sun-and-moon).
 
 ## Constraints
 
