@@ -1,0 +1,21 @@
+# The Bent One
+
+> A free bilingual picture book, in English and Spanish, about a short red line with a bend, and the shapes a line can take depending on where it stands and who it is with. Spanish title: La Doblada.
+
+Antonio Rodriguez Martinez wrote, designed, and built this book. It is published by Strong Hands, Soft Heart LLC.
+
+The book is a single-page web app with animated spreads. Readers turn the pages in a browser and can switch between English and Spanish at any time. The story text appears only after JavaScript runs, so a plain HTML fetch of the site returns an empty page. The README in the repository describes the book in markdown.
+
+The story text and the artwork are licensed CC BY-NC 4.0: you may share and adapt them for non-commercial use, with credit to Antonio Rodriguez Martinez and a link to the book. The reader app's source code is MIT licensed.
+
+## Book
+
+- [The Bent One](https://the-bent-one-book.stronghandssoftheart.com/): the book in the browser, starting at the cover
+- [README](https://raw.githubusercontent.com/antoniwan/the-bent-one/main/README.md): what the book is, the stack, and how to run it, as markdown
+- [License](https://raw.githubusercontent.com/antoniwan/the-bent-one/main/LICENSE.md): CC BY-NC 4.0 for the story and art, MIT for the code, and how to give credit
+
+## Optional
+
+- [Source code](https://github.com/antoniwan/the-bent-one): the repository on GitHub
+- [Mia, the Sun, and the Moon](https://mia-the-sun-and-the-moon-web-book.stronghandssoftheart.com/llms.txt): another bilingual picture book in this series
+- [Antonio Rodriguez Martinez](https://antoniwan.online/llms.txt): the author's link page
