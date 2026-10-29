@@ -62,7 +62,7 @@ Icons: `favicon.svg`, `favicon.ico`, `favicon-16/32/48.png`, `apple-touch-icon.p
 
 Crawlers: `public/robots.txt`, `public/sitemap.xml`. Meta + JSON-LD live in `index.html`; language switches update them via `src/lib/book/seo.ts`.
 
-Analytics: Vercel Web Analytics, plus Stats, our self-hosted Umami (no cookies, Do Not Track respected, outbound link clicks counted as `outbound`). The `stats()` plugin in `vite.config` adds it only when the build has `PUBLIC_UMAMI_HOST` and `PUBLIC_UMAMI_WEBSITE_ID` (set in the Vercel project for Production).
+Analytics: Vercel Web Analytics, plus Stats, our self-hosted Umami (no cookies, Do Not Track respected, outbound link clicks counted as `outbound`, and each call to action, such as opening the book, continuing, the language switch, and starting again, counted as `cta` with a `label`). The `stats()` plugin in `vite.config` adds it only when the build has `PUBLIC_UMAMI_HOST` and `PUBLIC_UMAMI_WEBSITE_ID` (set in the Vercel project for Production).
 
 `vercel.json` rewrites all routes to `index.html` so deep links work on a static host.
 
