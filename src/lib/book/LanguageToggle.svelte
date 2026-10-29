@@ -26,6 +26,8 @@
       class:active={language === option.id}
       aria-pressed={language === option.id}
       onclick={() => onChange(option.id)}
+      data-umami-event="cta"
+      data-umami-event-label={`language-${option.id}`}
     >
       {option.label}
     </button>

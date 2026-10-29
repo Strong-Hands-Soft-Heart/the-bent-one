@@ -245,11 +245,11 @@
           </p>
           <p class="byline">{ui('by', lang)} {pick(BOOK.author, lang)}</p>
           <div class="cta-row">
-            <button type="button" class="cta" onclick={openBook}
+            <button type="button" class="cta" onclick={openBook} data-umami-event="cta" data-umami-event-label="open-book"
               >{ui('beforeWeBegin', lang)}</button
             >
             {#if showContinue}
-              <button type="button" class="cta ghost" onclick={continueReading}>
+              <button type="button" class="cta ghost" onclick={continueReading} data-umami-event="cta" data-umami-event-label="continue-reading">
                 {ui('continueReading', lang)}
               </button>
             {/if}
@@ -291,7 +291,7 @@
               <p><ProseText text={para} {lang} /></p>
             {/each}
           </div>
-          <button type="button" class="cta" onclick={startReading}
+          <button type="button" class="cta" onclick={startReading} data-umami-event="cta" data-umami-event-label="begin"
             >{ui('begin', lang)}</button
           >
         </section>
@@ -316,7 +316,7 @@
           <p class="credit">
             {pick(BOOK.credit, lang)} · {pick(BOOK.author, lang)}
           </p>
-          <button type="button" class="cta ghost" onclick={goFirst}
+          <button type="button" class="cta ghost" onclick={goFirst} data-umami-event="cta" data-umami-event-label="start-again"
             >{ui('startAgain', lang)}</button
           >
           <details class="dedication">
