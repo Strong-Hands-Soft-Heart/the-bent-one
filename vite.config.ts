@@ -33,6 +33,7 @@ function stats() {
             'data-website-id': id,
             'data-domains': 'the-bent-one-book.stronghandssoftheart.com',
             'data-do-not-track': 'true',
+            'data-errors': 'true',
           },
           injectTo: 'head' as const,
         },
